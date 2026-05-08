@@ -1,0 +1,14 @@
+{
+  "theme": "system",
+  "defaultFontSize": 16,
+  "fontFamily": "system-ui, -apple-system, sans-serif",
+  "spellcheck": false,
+  "showLineNumber": false,
+  "highlightActiveLine": true,
+  "underlineFoldedChunks": true,
+  "readableLineLength": true,
+  "maximize pane": false,
+  "showRibbon": true,
+  "showInlineTitle": true,
+  "alwaysShowNewTabButton": true
+}
